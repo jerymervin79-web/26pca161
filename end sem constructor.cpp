@@ -24,7 +24,7 @@ public:
 
 int main() {
 
-    Book book1("The Alchemist", "Paulo Coelho");
+    Book book1("The intermediate chess Basic to Intermediate ", "Jerymervin");
     Book book2("Wings of Fire", "A. P. J. Abdul Kalam");
 
     cout << "--- Book Details System ---\n";
